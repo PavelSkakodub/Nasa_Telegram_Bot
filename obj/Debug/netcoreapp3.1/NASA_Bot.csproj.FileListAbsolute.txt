@@ -1,0 +1,17 @@
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.exe
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.deps.json
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.runtimeconfig.json
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.runtimeconfig.dev.json
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.dll
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\NASA_Bot.pdb
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\source\repos\NASA_Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.AssemblyInfo.cs
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.csproj.CopyComplete
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.dll
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.pdb
+C:\Users\win10\source\repos\NASA_Bot\obj\Debug\netcoreapp3.1\NASA_Bot.genruntimeconfig.cache
